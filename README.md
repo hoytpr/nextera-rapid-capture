@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Automated Nextera XT Installation Guide #
 **For Agilent NGS Workstation Option B**
 
@@ -117,3 +118,7 @@ Automation protocols made available by NGI Sweden at https://github.com/ngi-auto
 >[National Genomics Infrastructure][ngi] at [SciLifeLab][scilife]  
 <joel.gruselius@scilifelab.se>  
 July 2014
+=======
+# nextera-rapid-capture
+An automated method for the Nextera Rapid Capture kit on the Agilent NGS Workstation (Option B) 
+>>>>>>> dc3d05f0c60ce9366cd111695e14f6d2aeb56ac2
